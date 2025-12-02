@@ -77,7 +77,7 @@ Passos para participar no desenvolvimento:
 4.	Enviar pull request
 
 VIII. Autoria
-Baloi Wi — Artista e Produtor Musical
+Wilton Fenias Baloi (Baloi Wi — Artista e Produtor Musical)
 
 
 
