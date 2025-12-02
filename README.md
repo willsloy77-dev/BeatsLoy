@@ -9,30 +9,52 @@ Missão do projecto
 Criar um espaço oficial onde o público possa conhecer o artista, ouvir faixas, acompanhar eventos, consultar serviços e estabelecer contacto directo.
 
 Quem o website pretende alcançar
+
 •	Fãs de hip-hop consciente, Boom Bap e Neo Soul
+
 •	Organizadores de eventos e casas de espectáculo
+
 •	Produtores e músicos interessados em colaborações
+
 •	Audiência digital tanto mobile como desktop
+
 Principais recursos oferecidos
+
 •	Página inicial com destaque visual e player de vídeo
+
 •	Secção “Sobre” com história e identidade do artista
+
 •	Lista de eventos e actuações futuras
+
 •	Página de faixas com reprodutor de áudio
+
 •	Galeria de vídeos (feed YouTube)
+
 •	Temporizador regressivo para datas importantes
+
 •	Área de contactos com email e telefone
+
 •	Integração com redes sociais
+
 •	Interface adaptável a telemóveis e computadores
+
 Nota importante:
 O site não possui back-end. Não guarda dados, não processa login, reservas ou pagamentos. Para tais funções seriam necessários serviços API ou desenvolvimento adicional.
 
 III. Tecnologias e Ferramentas
+
 •	HTML5
+
 •	CSS3
+
 •	JavaScript básico
+
 •	Bootstrap
+
 •	jQuery e plugins
+
 •	Git & GitHub
+
 •	Bibliotecas externas: Owl Carousel, jPlayer, SlickNav, Magnific Popup
 
 IV. Execução local do projecto
@@ -61,13 +83,21 @@ music-files/
 fonts/
 
 VI. Principais capacidades
+
 •	Reproduzir faixas directamente no site
+
 •	Reproduzir vídeos em janela popup
+
 •	Carrossel de eventos e actividades
+
 •	Layout fluido em mobile e desktop
+
 •	Menu de navegação adaptável
+
 •	Inscrição de newsletter (front-end visual)
+
 •	Secção de serviços musicais
+
 •	Dados de contacto visíveis e acessíveis
 
 VII. Contribução e colaboração
