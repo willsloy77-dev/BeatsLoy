@@ -7,6 +7,7 @@ Baloi Wi é um website estático concebido para apresentar o artista, a sua sono
 II. Finalidade do Website
 Missão do projecto
 Criar um espaço oficial onde o público possa conhecer o artista, ouvir faixas, acompanhar eventos, consultar serviços e estabelecer contacto directo.
+
 Quem o website pretende alcançar
 •	Fãs de hip-hop consciente, Boom Bap e Neo Soul
 •	Organizadores de eventos e casas de espectáculo
